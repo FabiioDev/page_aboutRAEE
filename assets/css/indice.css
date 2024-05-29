@@ -1,0 +1,50 @@
+.container_indice {
+    max-width: 800px;
+    margin: 40px auto 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+.container h3.h2 {
+    font-size: 1.5em;
+    color: #333;
+    /* border-bottom: 2px solid #4CAF50; */
+    border-bottom: 2px solid #59ab6e;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 10px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #333;
+}
+
+nav ul ul {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+nav ul ul li {
+    margin: 5px 0;
+}
+
+nav ul ul li a {
+    font-weight: normal;
+}
